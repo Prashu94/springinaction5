@@ -1,0 +1,6 @@
+package tacos.security;
+
+@Service
+public class UserRepositoryUserDetailsService {
+
+}

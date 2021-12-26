@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" 
+      xmlns:th="http://www.thymeleaf.org"s>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+	<link rel ="stylesheet" th:href="@{/styles.css}"/>
+</head>
+<body>
+	<h1>Design your taco!</h1>
+	<h2>Feelin' hungry, <span th:text="${user.fullname}"></span></h2>
+</body>
+</html>

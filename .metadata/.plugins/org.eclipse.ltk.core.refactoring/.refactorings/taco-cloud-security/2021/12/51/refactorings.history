@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;tacos.security.RegistratonController.java&apos; to &apos;RegistrationController.java&apos;&#x0D;&#x0A;- Original project: &apos;taco-cloud-security&apos;&#x0D;&#x0A;- Original element: &apos;tacos.security.RegistratonController.java&apos;&#x0D;&#x0A;- Renamed element: &apos;tacos.security.RegistrationController.java&apos;" description="Rename compilation unit &apos;RegistratonController.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;tacos.security{RegistratonController.java" name="RegistrationController.java" references="false" stamp="1639840588034" version="1.0"/>
+</session>
